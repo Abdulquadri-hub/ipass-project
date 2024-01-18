@@ -302,6 +302,7 @@ h6 {
     padding: 20px;
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 .ipass-welcome h1 {
@@ -319,10 +320,19 @@ h6 {
 
 .ipass-welcome h2 {
     color: #2C394C;
-    margin: 5px 0 30px 0;
     font-size: 24px;
     font-weight: 400;
+    margin-top: 5px;
 }
+
+.ipass-welcome h3 {
+    color: #2C394C;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0 0 30px 0;
+
+}
+
 
 .ipass-welcome .btn-get-started {
     font-family: "Roboto", sans-serif;
@@ -336,6 +346,7 @@ h6 {
     border-radius: 4px;
     letter-spacing: 1px;
     font-weight: 500;
+    margin: auto;
 }
 
 .ipass-welcome .btn-get-started:hover {
