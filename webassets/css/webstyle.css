@@ -320,9 +320,10 @@ h6 {
 
 .ipass-welcome h2 {
     color: #2C394C;
-    font-size: 24px;
-    font-weight: 400;
+    font-size: 48px;
+    font-weight: 700;
     margin-top: 5px;
+    font-family: "Poppins", sans-serif;
 }
 
 .ipass-welcome h3 {
